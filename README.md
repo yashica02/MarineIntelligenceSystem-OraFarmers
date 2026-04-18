@@ -2,11 +2,11 @@
 ## ~OraFarmers
 
 ## Team Members
-- Ananya (Data Engineer)
+- Gayathri Ananya (Data Engineer)
 - Yashica Sharma
-- [Full Name 2]
-- [Full Name 3]
-- [Full Name 4]
+- Therese Virata
+- Sarah Acosta
+- Shresthkumar Karnani
 
 ## Project Overview
 This project was built in Oracle APEX within a private workspace.
